@@ -95,7 +95,7 @@
                                 <move todir="${destDir}">
                                     <fileset 
                                         dir="${project.build.directory}/startbootstrap-sb-admin-${upstreamVersion}/" 
-                                        includes="dist/, js/, vendor/" 
+                                        includes="css/, js/, font-awesome/, fonts/" 
                                         excludes="**/scss, **/*.scss, **/less, **/*.less, **/*.psd," />    
                                 </move>
                             </target>
