@@ -11,7 +11,7 @@
     <groupId>org.webjars</groupId>
     <artifactId>startbootstrap-sb-admin</artifactId>
     <name>startbootstrap-sb-admin</name>
-    <version>3.3.7+1</version>
+    <version>3.3.7</version>
     <packaging>jar</packaging>
     <description>WebJar for startbootstrap-sb-admin by BlackrockDigital</description>
     <url>https://github.com/BlackrockDigital/startbootstrap-sb-admin</url>
